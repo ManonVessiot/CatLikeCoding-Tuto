@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/4_Rendering/4_The_First_Light/The_First_Light.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
